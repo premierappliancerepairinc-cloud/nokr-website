@@ -1,4 +1,4 @@
-# Handled website — image sources
+# Nokr website — image sources
 
 All 15 photos below are **real photographs from Pexels** (free Pexels licence:
 free to use, no attribution required, no login needed to download).
@@ -31,7 +31,7 @@ Source URLs are the Pexels image URLs the files were downloaded from
 
 | File | What it shows | Source | Best use |
 |---|---|---|---|
-| `technician-tablet-scanning-01.jpg` (1600×2400, 374 KB) | Worker in workwear scanning a part with a handheld scanner while holding a tablet (parts / inventory on the job). Photographer: Tiger Lily. | https://images.pexels.com/photos/4484150/pexels-photo-4484150.jpeg — photo page: https://www.pexels.com/photo/photo-of-man-using-digital-tablet-4484150/ | Features — Max agent: parts & inventory |
+| `technician-tablet-scanning-01.jpg` (1600×2400, 374 KB) | Worker in workwear scanning a part with a handheld scanner while holding a tablet (parts / inventory on the job). Photographer: Tiger Lily. | https://images.pexels.com/photos/4484150/pexels-photo-4484150.jpeg — photo page: https://www.pexels.com/photo/photo-of-man-using-digital-tablet-4484150/ | Features — Dana agent: parts & inventory |
 | `technician-phone-tablet-02.jpg` (1600×1067, 158 KB) | Smiling man talking on a phone while holding a tablet. Photographer: Diva Plavalaguna. | https://images.pexels.com/photos/6149784/pexels-photo-6149784.jpeg — photo page: https://www.pexels.com/photo/a-man-in-brown-sweater-talking-on-the-phone-while-holding-his-tablet-6149784/ | Features — voice control |
 
 ## Close-ups: parts, tools, hands at work
